@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisPostGifComment.react",["IGDSBox.react","PolarisPostStrings","react"],(function(a,b,c,d,e,f,g){"use strict";var h=d("react");function a(a){a=a.gifSrc;return h.jsx(c("IGDSBox.react"),{marginTop:2,children:h.jsx("img",{alt:d("PolarisPostStrings").GIF_COMMENT_ALT_TEXT,className:"x107yiy2 xv8uw2v x1tfwpuw x2g32xy",src:a})})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
